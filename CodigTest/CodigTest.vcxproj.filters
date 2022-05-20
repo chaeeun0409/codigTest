@@ -42,5 +42,8 @@
     <ClCompile Include="1차_9번_단체 티셔츠 주문하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1차_10번_쇼핑몰 등급별 할인 금액 구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
