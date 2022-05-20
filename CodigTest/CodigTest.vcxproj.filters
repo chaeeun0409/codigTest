@@ -24,5 +24,8 @@
     <ClCompile Include="1차_3번_시작 날짜와 끝 날짜의 사이 날짜구하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1차_4번_등장하는 가장 많은 수와 적은수 구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
