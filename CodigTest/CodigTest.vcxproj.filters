@@ -18,5 +18,11 @@
     <ClCompile Include="1차_1번_369 게임 박수의 갯수.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1차_2번_배열의 순서 뒤집기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="1차_3번_시작 날짜와 끝 날짜의 사이 날짜구하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
