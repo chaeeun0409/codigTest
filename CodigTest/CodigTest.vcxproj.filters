@@ -30,5 +30,8 @@
     <ClCompile Include="1차_5번_영어 수강 대상자 수 구하기.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="1차_5번_팰린드롬 판단하기.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
